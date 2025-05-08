@@ -27,12 +27,12 @@ FINDPATH () {
 
 SETTINGS () {
     echo;echo;
-    echo -e "Größen Angaben in Pixel, nur einen Größenwert notwendig:"
+    echo -e "Größen Angaben in Pixel, nur ein Größenwert notwendig:"
     echo
     read -p "         Höhe: " height
     read -p "       Breite: " width
     echo;
-    echo -e "DPI Wert eingeben 72 für Web, 300 für Print:"
+    echo -e "DPI Wert eingeben, 72 für Web, 300 für Print:"
     echo;
     read -p "          dpi: " dpi
     echo;
