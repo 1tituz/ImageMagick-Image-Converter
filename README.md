@@ -1,11 +1,12 @@
 # ImageMagick Stapel-Konvertierer -> jpg, jpeg, gif, png ZU webp Dateien
 Weil Bimp in Gimp 3 nicht mehr funktioniert :(
 
-**Dependencies:** imagemagick
+**Dependencies:** ***imagemagick***
 
-Einfach dem Script den absoluten Pfad der Bilddateien angeben.
+**Was macht das Script?**  
+Gib den Pfad zu deinen Bilddateien (jpg, jpeg, gif oder png) an und wandle diese in webp Dateien um.
 
-Eingestellt werden kann:
+**Eingestellt werden kann:**
 - **Höhe** und **Breite** in Pixelwert Angaben (Eine von beiden Angaben kann frei gelassen werden um die Dimensionen beizubehalten).
 - **DPI** (Muss angegeben werden)
 - Die **Qualität** des webps (Muss angegeben werden)
