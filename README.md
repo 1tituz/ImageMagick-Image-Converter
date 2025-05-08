@@ -6,12 +6,12 @@ Weil Bimp in Gimp 3 nicht mehr funktioniert :(
 Einfach dem Script den absoluten Pfad der Bilddateien angeben.
 
 Eingestellt werden kann:
-- **Höhe** und **Breite** in Pixelwert angaben (Eine von beiden Angabe kann frei gelassen um die Dimensionen beizubehalten).
+- **Höhe** und **Breite** in Pixelwert Angaben (Eine von beiden Angaben kann frei gelassen werden um die Dimensionen beizubehalten).
 - **DPI** (Muss angegeben werden)
 - Die **Qualität** des webps (Muss angegeben werden)
 
 
 **Wie verwenden:**
 - Speichere die Datei ***webpConvert.sh*** in einem Ordner.
-- Öffne in diesen Ordner den Terminal und mach die Datei ausführbar: `chmod +x webpConvert.sh`
+- Öffne in diesen Ordner im Terminal und mach die Datei ausführbar: `chmod +x webpConvert.sh`
 - Starte das Script mit: `./webpConvert.sh`
