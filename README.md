@@ -16,3 +16,7 @@ Gib den Pfad zu deinen Bilddateien (jpg, jpeg, gif oder png) an und wandle diese
 - Speichere die Datei ***webpConvert.sh*** in einem Ordner.
 - Öffne diesen Ordner im Terminal und mach die Datei ausführbar: `chmod +x webpConvert.sh`
 - Starte das Script mit: `./webpConvert.sh`
+
+
+Ein funktionierendes GIMP 3.0 Plugin gibts hier:
+https://github.com/kamilburda/batcher
